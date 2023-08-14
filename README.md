@@ -23,3 +23,4 @@ You ***must*** have a Spotify account to run this website since it utilizes the 
 4. Login to your Spotify Account, and click on ‘Create an app’.
 5. Pick an ‘App name’ and ‘App description’ of your choice and mark the checkboxes.
 6. After creation, click on ‘Edit Settings‘ to view your client ID and client secret.
+7. Once you've copy pasted your client ID and client secret into the .env vile, you're good to go!
