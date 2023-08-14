@@ -4,12 +4,15 @@
 
 Submitted to Recess Hacks 3.0 (completed in 26 hours)
 
-For this code to run, please add a .env file to Attune-main 
+### Important
 
-CLIENT_ID="YOUR CLIENT ID"
+You ***must*** have a Spotify account to run this website. The website will provide you with invalid Spotify pages if you do not do the following:
 
-CLIENT_SECRET="YOUR CLIENT SECRET"
-
-You can get your client ID and client secret from "Spotify for Developers" and then create an App, and then go to settings to view the ID and secret. 
-
-The website will provide you with invalid spotify pages if you do not do this part, therefore it will not work without the env file with client id and secret!!!!!!!!!
+1. Add a .env file to Attune-main
+2. Copy paste the following two lines into the .env file
+```CLIENT_ID="Your_client_id"
+CLIENT_SECRET="Your_client_secret"```
+3. Your_client_id and Your-client-secret are **personal** inputs. Everyone will have a different client ID and client secret. You can get your client ID and client secret from [Spotify for Developers](https://developer.spotify.com/dashboard/applications).
+4. Login to your Spotify Account, and click on ‘Create an app’.
+5. Pick an ‘App name’ and ‘App description’ of your choice and mark the checkboxes.
+6. After creation, you see your ‘Client Id’ and you can click on ‘Show client secret` to unhide your ’Client secret’.
