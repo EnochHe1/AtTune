@@ -1,6 +1,10 @@
 # AtTune
 
-![image](https://github.com/Pancraes/AtTune/assets/108845209/9a61010e-6341-41d6-94cf-d0ff38687cbc)
+
+
+https://github.com/EnochHe1/AtTune/assets/133233938/cd210ba9-2dc6-4be9-a3c0-6a7cb8d506ba
+
+
 
 This platform offers Spotify playlists tailored to the user's emotions. Submitted to Recess Hacks 3.0 (completed in 26 hours)
 
