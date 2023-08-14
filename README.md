@@ -12,6 +12,7 @@ You ***must*** have a Spotify account to run this website since it utilizes the 
 2. Copy paste the following two lines into the .env file
 
 `CLIENT_ID="Your_client_id"
+
 CLIENT_SECRET="Your_client_secret"`
 
 3. Your_client_id and Your-client-secret are **personal** inputs. Everyone will have a unique client ID and client secret. You can get your client ID and client secret from [Spotify for Developers](https://developer.spotify.com/dashboard/applications).
