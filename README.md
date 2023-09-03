@@ -6,7 +6,7 @@ https://github.com/EnochHe1/AtTune/assets/133233938/cd210ba9-2dc6-4be9-a3c0-6a7c
 
 
 
-This platform offers Spotify playlists tailored to the user's emotions.
+This platform offers Spotify playlists tailored to the user's emotions. Created with HTML, CSS, Bootstrap, Python, and Flask.
 
 ### Important
 
